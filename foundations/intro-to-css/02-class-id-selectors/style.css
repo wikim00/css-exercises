@@ -1,0 +1,22 @@
+/* styles.css */
+
+p {
+    background-color: #ffadd6;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#num2 {
+    color: #0800ff;
+    font-size: 36px;
+}
+
+#num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: #00ff11;
+    font-size: 24px;
+    font-weight: bold;
+}
+
